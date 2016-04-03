@@ -55,6 +55,6 @@ To get over a high wall, maybe this could work:
 ### Puzzle Sample 3 
 A hole?
 
-|1. falling into a hole, alternate to cube and respawn|2. repeat *filling* the hold|3. done|
+|1. falling into a hole, alternate to cube and respawn|2. repeat *filling* the hol3|3. done|
 |----|----|----|
 |![](Captures/puzzle-3/1.png)|![](Captures/puzzle-3/2.png)|![](Captures/puzzle-3/3.png)|
